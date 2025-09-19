@@ -10,12 +10,14 @@ import EmojiPicker from '@/components/EmojiPicker';
 import IconButton from '@/components/IconButton';
 import ImageViewer from '@/components/ImageViewer';
 
+
 import EmojiSticker from '@/components/EmojiSticker';
 
 
 const PlaceholderImage = require('@/assets/images/background-image.png');
 
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
+
 
 
 export default function Index() {
